@@ -1,4 +1,4 @@
-welcome_notification█Witaj, <color=#64B5F6>{0}</color>!&%Widzę, że w końcu założyłeś rakietową firmę, o której wspominałeś. "<color=#64B5F6>{1}</color>" to nawet fajna nazwa!. Muszę Ci przyznać, że jesteś bardzo odważny.&%&%Duże firmy, które mają monopol w wysyłaniu ładunków na orbitę, od lat nie zainwestowały w nowszą technologię. Cały czas używają jakiś niewydajnych rakiet na przestarzałych silnikach. A gdyby tak rakiety mogły lądować? Wtedy można by było wysłać nawet kilka ładunków tylko 1 rakietą! Mam nadzieję, że uda Ci się zbudować lądujące rakiety, a może nawet rakietę z bocznymi boosterami?&%&%Powodzenia!
+welcome_notification█Witaj, <color=#64B5F6>{0}</color>!&%Widzę, że w końcu założyłeś rakietową firmę, o której wspominałeś. "<color=#64B5F6>{1}</color>" to nawet fajna nazwa!. Muszę Ci przyznać, że jesteś bardzo odważny.&%&%Duże firmy, które mają monopol w wysyłaniu ładunków na orbitę, od lat nie zainwestowały w nowszą technologię. Cały czas używają jakichś niewydajnych rakiet na przestarzałych silnikach. A gdyby tak rakiety mogły lądować? Wtedy można by było wysłać nawet kilka ładunków tylko 1 rakietą! Mam nadzieję, że uda Ci się zbudować lądujące rakiety, a może nawet rakietę z bocznymi boosterami?&%&%Powodzenia!
 ---Main Menu---█---Main Menu---
 menu_btn_play█Graj
 menu_btn_settings█Ustawienia
@@ -168,8 +168,8 @@ bank_loans_take_btn█Weź pożyczkę
 bank_loans_payback_btn█Spłać
 bank_loans_take_notification█Wziąłeś pożyczkę. Będziesz spłacać {0} <color=#16A085>$</color> co kwartał, dopóki wszystkiego nie spłacisz. ({1} kwartałów)
 bank_loans_payment_text█Spłacanie długu ({0})
-bank_loans_payback_no_money█Nie masz wystarczająco dużo pieniędzy, aby spłacić tę pożyczkę!
-bank_loans_payback_notification█Pożyczka, którą wziąłeś, została spłacona. Dziękujemy!
+bank_loans_payback_no_money█Nie masz wystarczająco dużo pieniędzy aby spłacić tę pożyczkę!
+bank_loans_payback_notification█Pożyczka jaką wziąłeś została spłacona. Dziękujemy!
 bank_loans_payback_remaining█Do spłacenia:
 bank_loans_value█{0} <color=#16A085>$</color>
 bank_loans_value_quater█{0} <color=#16A085>$</color> co kwartał przez {1} kwartałów
@@ -258,12 +258,12 @@ contract_deadline_passed_notification_name█Spóźniłeś się!
 contract_deadline_passed_notification_content█Kontrakt <color=#64B5F6>{0}</color> zostanie usunięty, ponieważ jedna z misji przekroczyła termin wykonania.&%Zostaniesz ukarany karą finansową!
 contract_deadline_penalty_notification█Straciłeś kontrakt, ponieważ jedna z misji przekroczyła termin wykonania.
 contract_deadline_reminder_notification_name█Pośpiesz się!
-contract_deadline_reminder_notification_content█Musisz ukończyć następujące misje w terminie:&%<color=#64B5F6>{0}</color>, aby ocalić kontrakt.&%Zostaniesz ukarany karą finansową, jeśli jedna z misji przekroczy termin.
+contract_deadline_reminder_notification_content█Musisz ukończyć następujące misje w terminie:&%<color=#64B5F6>{0}</color>, aby ocalić kontrakt.&%Zostaniesz ukarany karą finansową, jeśli jedna z misji przekroczy wyznaczony termin końcowy.
 contract_details_btn█Szczegóły
 tutorial_stop_confirm█Czy na pewno chcesz zatrzymać tutorial?
 tutorial_0█Odblokuj 4 moduły×Pierwsze 4 moduły rakietowe są wymagane do zbudowania pierwszej rakiety.
 tutorial_1█Ulepszenia×Tutaj możesz ulepszyć status swojej firmy i moduły w przyszłości! Wyłącz teraz to okienko.
-tutorial_2█Tryb budowania×W trybie budowania możesz budować budynki, których potrzebujesz. Biura poszukują kontraktów, fabryki budują rakiety, hangary przechowują rakiety, a laboratoria prowadzą badania. Wszystkie budynki są bardzo ważne!
+tutorial_2█Tryb budowania×W trybie budowania możesz budować budynki, których potrzebujesz. Biura poszukują kontraktów, fabryki budują rakiety, hangary przechowują rakiety a laboratoria prowadzą badania. Wszystkie budynki są bardzo ważne!
 tutorial_3█Zbuduj coś×Teraz zbuduj swoje pierwsze 2 fabryki i 1 hangar, a następnie wyjdź z trybu budowania!
 tutorial_4█Skonfiguruj firmę×W menadżerze firmy możesz skonfigurować swoją firmę i budynki.
 tutorial_5█Zarządzaj pracownikami×W zakładce Pracownicy możesz zatrudnić i przyporządkować pracowników do 4 grup pracowników.
@@ -276,7 +276,7 @@ tutorial_11█Stwórz nową rakietę×W panelu projektu rakiety możesz stworzy�
 tutorial_12█Zbuduj rakietę×Możesz przerwać budowę w każdej chwili, ale nie odzyskasz wydanych pieniędzy.
 tutorial_13█Przypisz fabryki×Teraz przypisz fabryki do modułów w panelu rakiety i czekaj. Możesz to zrobić ręcznie lub klikając na zielony przycisk powyżej.
 tutorial_14█Otwórz menedżera rakiet×Zrób to jeszcze raz!
-tutorial_15█Wystartuj rakietę×Wystrzel rakietę, którą właśnie zbudowałeś. Musisz odbyć lot testowy, aby zdobyć trochę zaufania. Po tym będziesz mógł przyjmować kontrakty i zarabiać pieniądze!
+tutorial_15█Wystartuj rakietę×Wystrzel rakietę, którą właśnie zbudowałeś. Musisz odbyć lot testowy by zdobyć nieco zaufania inwestorów. Po tym będziesz mógł przyjmować kontrakty i zarabiać pieniądze!
 mission_details_payload█Ładunek
 mission_details_client█Klient
 mission_details_size█Wielkość
@@ -305,22 +305,22 @@ orbit_geo█GEO
 launchpad_full_notification█Z tego stanowiska startuje już inna rakieta!
 mission_manager_max_year_launch_exceeded_notification█W tym roku wystrzeliłeś maksymalną ilość rakiet.
 mission_manager_simultaneous_launch_exceeded_notification█Nie możesz wystrzelić tylu rakiet w tym samym czasie. Musisz ulepszyć swoją firmę w drzewie badawczym!
-mission_manager_reusable_launch_denied_notification█Nie możesz wystrzelić rakiety wielokrotnego użytku, bo nie masz na to pozwolenia. Musisz ulepszyć swoją firmę w drzewie badawczym!
-mission_manager_three_stage_launch_denied_notification█Nie możesz wystrzelić rakiety z trzema boosterami, bo nie masz na to pozwolenia. Musisz ulepszyć swoją firmę w drzewie badawczym!
+mission_manager_reusable_launch_denied_notification█Nie możesz wystrzelić rakiety wielokrotnego użytku ponieważ nie posiadasz wymaganych zezwoleń. Musisz ulepszyć swoją firmę w drzewie badawczym!
+mission_manager_three_stage_launch_denied_notification█Nie możesz wystrzelić rakiety z trzema boosterami gdyż nie masz na to pozwolenia. Musisz ulepszyć swoją firmę w drzewie badawczym!
 mission_manager_rocket_preparation_notification█Rakieta została zatankowana i przygotowana do startu.
 context_menu_title█Wybierz
 context_menu_no_factory█[Brak dostępnych fabryk.]
 context_menu_rocket_info█<b>{0}</b>&%<color=#64B5F6><size=10>> {1} | Ładunek: {2}/{3}</size></color>
-context_menu_no_rocket█[Nie masz żadnych rakiet albo są one po prostu zbyt złe do tej misji.]
+context_menu_no_rocket█[Nie posiadasz żadnych rakiet lub są one nieodpowiednie do tej misji.]
 build_slot_remove_factory_working_notification█Ta fabryka właśnie pracuje. Nie możesz jej usunąć.
 build_slot_remove_confirmation█Czy na pewno chcesz usunąć ten budynek?
-build_slot_building_sold_notification█Budnek został sprzedany.
+build_slot_building_sold_notification█Budynek został sprzedany.
 build_slot_max_factories_notification█Nie możesz zbudować tylu fabryk. Musisz ulepszyć swoją firmę w drzewie badawczym!
 build_slot_status_working█Pracuje nad&%{0} w {1}
 build_slot_done_notification█Moduł {0} jest gotowy
 build_slot_status_research█Badanie...
 build_slot_lab_name█Laboratorium
-build_slot_status_search█Szukanie...
+build_slot_status_search█Szukanie ofert...
 build_slot_office_name█Biuro
 build_slot_status_repair█Naprawianie {0}...
 build_slot_rocket_repaired█Rakieta {0} została naprawiona!
@@ -337,16 +337,16 @@ launch_control_deploy_success_notification_content_landing█Rakieta {0} wynios�
 launch_control_landing_success_notification_title█Lądowanie udane
 launch_control_landing_success_notification_content█{0} wylądował z powrotem na ziemi!&%Misja <color=#64B5F6>{1}</color> została ukończona z podwójnym zwycięstwem.&%Możesz teraz wykorzystać {0} w następnej misji!
 launch_control_mission_fail_notification_title█Misja nieudana
-launch_control_mission_fail_notification_content█Rakieta {0} eksplodowała podczas lotu.&%Misja <color=#64B5F6>{1}</color> zakończyła się niepowodzeniem&%Musisz zapłacić {2} <color=#E74C3C>$</color>, ponieważ utraciłeś ładunek klienta.&%&%Aby zapobiec wybuchom rakiet, buduj je częściej i wykonuj testy rakiet przed ich lotem!
+launch_control_mission_fail_notification_content█Rakieta {0} eksplodowała podczas lotu.&%Misja <color=#64B5F6>{1}</color> zakończyła się niepowodzeniem&%Musisz zapłacić {2} <color=#E74C3C>$</color>, ponieważ utraciłeś ładunek klienta.&%&%Aby zapobiec wybuchom rakiet buduj je częściej i wykonuj testy rakiet przed ich lotem!
 launch_control_mission_fail_notification_money█Misja nieudana, ładunek utracony!
 projects_module_panel_employees█{0} pracowników
 projects_module_panel_queue█W kolejce... ({0})
 projects_module_panel_waiting_text█Oczekuje...
-projects_module_panel_no_employees_notification█Do tej fabryki należy przydzielić co najmniej 1 pracownika.
+projects_module_panel_no_employees_notification█Do tej fabryki należy przydzielić minimum 1 pracownika.
 projects_module_panel_no_employees_factory_notification█Do pracy w tej fabryce należy wyznaczyć co najmniej 1 pracownika.
 projects_module_panel_module_build█"Moduł {0} został zbudowany!"
 project_panel_auto_build_no_factories█Nie posiadasz żadnych fabryk do przypisania! Upewnij się, że co najmniej kilku pracowników jest do nich przypisanych.
-project_panel_no_hangar█Musisz zbudować hangar, żeby przechowywać w nim rakiety.
+project_panel_no_hangar█Musisz zbudować hangar żeby przechowywać w nim rakiety.
 project_panel_timeline_entry_rocket█{0} zbudowana
 project_panel_timeline_entry_launch█{0} wystartowała
 project_panel_static_fire_cost█Static fire
@@ -397,7 +397,7 @@ achivement_expert█Ekspert×Wystrzel 45 rakiet.
 achivement_jeff_who█Jeff who?×Nazwij swoją firmę "SpaceX", a CEO "Elon Musk".
 achivement_just_luck█Farciarz×Wystrzel udanie rakietę po raz pierwszy.
 achivement_serious_player█Poważny gracz×Wystrzel 100 rakiet.
-achivement_the_very_beginner█Początki początków×Odblokuj conajmniej jeden moduł.
+achivement_the_very_beginner█Początki początków×Odblokuj co najmniej jeden moduł.
 achivement_you_are_late█Spóźnialski×3 razy nie dotrzymaj terminu. 
 credits_header█Twórcy
 credits_main_creator█Gra stworzona przez <color=#64B5F6>Denisa Szwarca</color>, wydana przez <color=#64B5F6>Mesote Games</color>
