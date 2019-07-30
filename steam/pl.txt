@@ -8,13 +8,13 @@ Musisz zbudować kilka fabryk do tworzenia modułów, biur do poszukiwania kontr
 
 [img]{STEAM_APP_IMAGE}/extras/keyFeatures.png[/img]
 [i][b]Buduj rakiety[/b][/i]
-Odblokuj moduły (obecnie dostępnych jest 19), stwórz swój projekt rakietowy i zbuduj w swoich fabrykach różne odmiany rakiet.
+Odblokuj moduły (obecnie dostępnych jest 19), stwórz swój projekt rakietowy i zbuduj w swoich fabrykach różne wersje rakiet.
 
 [i][b]Wystrzel, Wyląduj, Powtórz[/b][/i]
 Wysyłaj w kosmos jednorazowe rakiety, a później z odpowiednią technologią i certyfikatem ląduj nimi na barce. 
 
 [i][b]Rakiety mogą czasami eksplodować[/b][/i].
-Jakość budowy i wytrzymałość konstrukcji rakiet ma duży wpływ na eksplozje. Im więcej rakiet zbudujesz, tym więcej doświadczenia zyskasz, a to pomoże Ci uniknąć niektórych eksplozji.
+Jakość budowy i wytrzymałość konstrukcji rakiet ma duży wpływ na eksplozje. Im więcej rakiet zbudujesz, tym więcej doświadczenia zyskasz, a to pomoże Ci uniknąć niektórych przykrych wypadków czy też destrukcji odpalanych rakiet.
 
 [i][b]Podpisz kontrakty i wykonuj misje[/b][/i].
 Twój poziom zaufania ma wpływ na to, jakie kontrakty otrzymujesz. Każdy kontrakt ma swoje własne misje, które musisz zrealizować na czas. 
